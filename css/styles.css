@@ -1,25 +1,60 @@
 body {
+  background-color: black;
   color: white;
   font-family:Arial, Helvetica, sans-serif;
   font-size: 12pt;
 }
 
+h1 {
+  text-align: center;
+}
+
 .intro {
   background-color: red;
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+  border: solid white;
+  border-width: 5px;
+  box-sizing: border-box;
 }
 
 .projects {
   background-color: orange;
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+  border: solid white;
+  border-width: 5px;
+  box-sizing: border-box;
 }
 
 .about {
   background-color: yellow;
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+  border: solid white;
+  border-width: 5px;
+  box-sizing: border-box;
 }
 
 .background {
   background-color: green;
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+  border: solid white;
+  border-width: 5px;
+  box-sizing: border-box;
 }
 
 .interests {
   background-color: blue;
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+  border: solid white;
+  border-width: 5px;
+  box-sizing: border-box;
 }
