@@ -9,10 +9,10 @@ h1 {
   text-align: center;
 }
 
-.intro {
+.sidebar {
   background-color: red;
   float: left;
-  width: 50%;
+  width: 30%;
   margin: 10px;
   padding: 10px;
   border: solid white;
@@ -20,43 +20,10 @@ h1 {
   box-sizing: border-box;
 }
 
-.projects {
-  background-color: orange;
-  float: right;
-  width: 50%;
-  margin: 10px;
-  padding: 10px;
-  border: solid white;
-  border-width: 5px;
-  box-sizing: border-box;
-}
-
-.about {
-  background-color: yellow;
-  float: left;
-  width: 50%;
-  margin: 10px;
-  padding: 10px;
-  border: solid white;
-  border-width: 5px;
-  box-sizing: border-box;
-}
-
-.background {
-  background-color: green;
-  float: right;
-  width: 50%;
-  margin: 10px;
-  padding: 10px;
-  border: solid white;
-  border-width: 5px;
-  box-sizing: border-box;
-}
-
-.interests {
+.content {
   background-color: blue;
   float: left;
-  width: 50%;
+  width: 70%;
   margin: 10px;
   padding: 10px;
   border: solid white;
