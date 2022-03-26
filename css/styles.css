@@ -1,5 +1,5 @@
 body {
-  background-color: #344b6c;
+  background-color: #d2dbca;
   color: #ffffff;
   font-family: georgia;
 }
@@ -53,8 +53,8 @@ body {
 
 .content {
   float: left;
-  background-color: #6181ac;
-  border: solid #57749b;
+  background-color: #b1c1a3;
+  border: solid #a5b895;
   border-width: 2px;
   width: 50%;
   margin: 10px;
@@ -63,7 +63,7 @@ body {
 }
 
 .content h2 {
-  color: #344b6c;
+  color: #728562;
   font-family: rockwell;
   text-align: right;
   font-size: 14pt;
