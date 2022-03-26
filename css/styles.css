@@ -1,6 +1,6 @@
 body {
   background-color: #344b6c;
-  color: white;
+  color: #ffffff;
   font-family: georgia;
 }
 
@@ -8,7 +8,7 @@ body {
   background-color: #c89182;
   float: left;
   width: 300px;
-  margin-right: 10px;
+  margin: 10px;
   padding: 10px;
   border: solid #b48375;
   border-width: 2px;
@@ -45,14 +45,18 @@ body {
 }
 
 .sidebar a {
-  color: yellow;
+  color: #ffffff;
   text-decoration: none;
+  font-style: italic;
   font-weight: bold;
 }
 
 .content {
+  float: left;
   background-color: #6181ac;
-  width: 900px;
+  border: solid #57749b;
+  border-width: 2px;
+  width: 50%;
   margin: 10px;
   padding: 10px;
   box-sizing: border-box;
