@@ -5,12 +5,12 @@ body {
 }
 
 .sidebar {
-  background-color: #c89182;
+  background-color: #f6bfd7;
   float: left;
   width: 300px;
   margin: 10px;
   padding: 10px;
-  border: solid #b48375;
+  border: solid #f5b4d1;
   border-width: 2px;
   box-sizing: border-box;
 }
@@ -30,14 +30,14 @@ body {
   font-family: rockwell;
   text-align: center;
   font-size: 14pt;
-  color: #8c665b;
+  color: #d885aa;
 }
 
 .sidebar h2 {
   font-family: rockwell;
   text-align: center;
   font-size: 12pt;
-  color: #8c665b;
+  color: #d885aa;
 }
 
 .sidebar p,ul,ol {
