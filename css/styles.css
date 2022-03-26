@@ -1,6 +1,6 @@
 body {
   background-color: #d2dbca;
-  color: #ffffff;
+  color: #555555;
   font-family: georgia;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 .sidebar a {
-  color: #ffffff;
+  color: #555555;
   text-decoration: none;
   font-style: italic;
   font-weight: bold;
@@ -53,10 +53,10 @@ body {
 
 .content {
   float: left;
-  background-color: #b1c1a3;
+  background-color: #ffffff;
   border: solid #a5b895;
   border-width: 2px;
-  width: 50%;
+  width: 60%;
   margin: 10px;
   padding: 10px;
   box-sizing: border-box;
