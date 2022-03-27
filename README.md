@@ -13,7 +13,9 @@
 
 _This portfolio webpage gives more details about my projects at Epicodus, as well as providing information about me, my professional and educational background, and hobbies and interests._
 
-_This can be used as a template for other portfolio projects._
+_A live version of the portfolio can be found [at this link on GitHub Pages](https://lrutkin.github.io/portfolio/)._
+
+_This can be used as a template for other portfolio projects using the steps below._
 
 ## Setup/Installation Requirements
 
